@@ -61,4 +61,7 @@ h1{
     .clock span{
       align-items: center;
     }
+    #sec{
+        margin-bottom:30px;
+    }
 }
