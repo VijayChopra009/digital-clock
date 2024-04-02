@@ -54,7 +54,7 @@ h1{
     flex-direction: column;
     justify-content:space-around;
     align-items: center;
-    max-width: 340px;
+    max-width: 300px;
     height: auto;
     margin:30px 45px 0px 45px;
     background-color: rgba(0, 0, 0, 0.746);
